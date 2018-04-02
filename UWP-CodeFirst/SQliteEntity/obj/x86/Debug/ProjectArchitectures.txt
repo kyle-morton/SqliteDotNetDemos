@@ -1,0 +1,1 @@
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity\SQliteEntity.csproj;x86

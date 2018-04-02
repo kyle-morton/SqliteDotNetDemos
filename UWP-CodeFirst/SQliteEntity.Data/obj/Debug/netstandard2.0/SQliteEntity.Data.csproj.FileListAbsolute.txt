@@ -1,0 +1,9 @@
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\bin\Debug\netstandard2.0\SQliteEntity.Data.deps.json
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\bin\Debug\netstandard2.0\SQliteEntity.Data.dll
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\obj\Debug\netstandard2.0\SQliteEntity.Data.csprojResolveAssemblyReference.cache
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\obj\Debug\netstandard2.0\SQliteEntity.Data.csproj.CoreCompileInputs.cache
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\obj\Debug\netstandard2.0\SQliteEntity.Data.AssemblyInfoInputs.cache
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\obj\Debug\netstandard2.0\SQliteEntity.Data.AssemblyInfo.cs
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\bin\Debug\netstandard2.0\SQliteEntity.Data.pdb
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\obj\Debug\netstandard2.0\SQliteEntity.Data.dll
+C:\Users\kylem\source\repos\SQliteEntity\SQliteEntity.Data\obj\Debug\netstandard2.0\SQliteEntity.Data.pdb
